@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://wuzhipeng.cn/about/index.html</loc>
+    
+    <lastmod>2020-07-18T09:37:38.164Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://wuzhipeng.cn/insar/index.html</loc>
     
     <lastmod>2020-07-17T17:36:51.815Z</lastmod>
@@ -103,13 +110,6 @@
     <loc>https://wuzhipeng.cn/link/index.html</loc>
     
     <lastmod>2020-07-10T09:01:57.117Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://wuzhipeng.cn/about/index.html</loc>
-    
-    <lastmod>2020-07-10T09:00:47.574Z</lastmod>
     
   </url>
   
