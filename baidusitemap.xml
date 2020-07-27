@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://wuzhipeng.cn/2020/07/08/Gallerys/</loc>
+    <lastmod>2020-07-27</lastmod>
+  </url>
+  <url>
+    <loc>https://wuzhipeng.cn/photo/index.html</loc>
+    <lastmod>2020-07-27</lastmod>
+  </url>
+  <url>
     <loc>https://wuzhipeng.cn/2020/07/10/DCS/</loc>
     <lastmod>2020-07-18</lastmod>
   </url>
@@ -18,10 +26,6 @@
   </url>
   <url>
     <loc>https://wuzhipeng.cn/2020/07/10/Gesture-Control/</loc>
-    <lastmod>2020-07-10</lastmod>
-  </url>
-  <url>
-    <loc>https://wuzhipeng.cn/2020/07/08/Gallery-travel/</loc>
     <lastmod>2020-07-10</lastmod>
   </url>
   <url>
