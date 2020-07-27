@@ -1,3 +1,3 @@
-copy index.md "../_posts/Gallery.md"
+copy index.md "../_posts/Gallerys.md"
 
 pause
